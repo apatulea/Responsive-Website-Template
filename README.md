@@ -1,6 +1,6 @@
 ## Responsive Website Template
 
-### Created with HTML and CSS 
+#### Created with HTML and CSS 
 
 Github Pages link: https://apatulea.github.io/Responsive-Website-Template/
 
